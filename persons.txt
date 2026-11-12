@@ -1,0 +1,7 @@
+ID	Name	Role	        Password
+1	Ali	    Manager	        admin123
+2	Sara	Receptionist	rec123
+3	Bilal	Housekeeper	    house123
+4	Hina	Receptionist	hina123
+5	Imran	Housekeeper	    imran123
+6	Nadia	Housekeeper 	nadia123
